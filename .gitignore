@@ -1,7 +1,4 @@
-*.ss~
-*.ss#*
-.#*.ss
+secret/
+*.mytext
+*.exe
 
-*.scm~
-*.scm#*
-.#*.scm
